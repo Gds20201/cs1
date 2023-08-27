@@ -1,0 +1,15 @@
+2023-07-16 13:34:53,053 | INFO     | - init
+2023-07-16 13:34:53,053 | INFO     | - 2010-01-01
+2023-07-16 13:35:47,523 | INFO     | - https://premium-beauty.com/works/list/date/2010-01-31
+2023-07-16 13:37:40,549 | INFO     | - https://premium-beauty.com/works/list/date/2010-03-02
+2023-07-16 13:38:30,694 | WARNING     | - HTTPSConnectionPool(host='premium-beauty.com', port=443): Max retries exceeded with url: /works/list/date/2010-03-12 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:997)'))) on https://premium-beauty.com/works/list/date/2010-03-12
+2023-07-16 13:38:30,694 | INFO     | - https://premium-beauty.com/works/list/date/2010-03-12
+2023-07-16 13:48:46,784 | INFO     | - https://premium-beauty.com/works/list/date/2011-03-12
+2023-07-16 13:56:47,440 | WARNING     | - HTTPSConnectionPool(host='premium-beauty.com', port=443): Max retries exceeded with url: /works/list/date/2011-10-25 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:997)'))) on https://premium-beauty.com/works/list/date/2011-10-25
+2023-07-16 13:56:47,440 | INFO     | - https://premium-beauty.com/works/list/date/2011-10-25
+2023-07-16 14:12:18,258 | WARNING     | - HTTPSConnectionPool(host='premium-beauty.com', port=443): Max retries exceeded with url: /works/list/date/2012-09-03 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:997)'))) on https://premium-beauty.com/works/list/date/2012-09-03
+2023-07-16 14:12:18,258 | INFO     | - https://premium-beauty.com/works/list/date/2012-09-03
+2023-07-16 14:16:44,335 | WARNING     | - HTTPSConnectionPool(host='premium-beauty.com', port=443): Max retries exceeded with url: /works/list/date/2013-01-17 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:997)'))) on https://premium-beauty.com/works/list/date/2013-01-17
+2023-07-16 14:16:44,337 | INFO     | - https://premium-beauty.com/works/list/date/2013-01-17
+2023-07-16 14:23:52,570 | WARNING     | - HTTPSConnectionPool(host='premium-beauty.com', port=443): Max retries exceeded with url: /works/list/date/2013-09-12 (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(10054, None, 10054, None))) on https://premium-beauty.com/works/list/date/2013-09-12
+2023-07-16 14:23:52,570 | INFO     | - https://premium-beauty.com/works/list/date/2013-09-12

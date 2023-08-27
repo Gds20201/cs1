@@ -1,0 +1,21 @@
+2023-08-11 17:49:49,601 | INFO     | - init
+2023-08-11 17:49:49,601 | INFO     | - 2010-01-01
+2023-08-11 17:49:52,459 | INFO     | - https://kawaiikawaii.com/works/list/date/2010-01-02
+2023-08-11 17:55:18,796 | WARNING     | - ('Connection aborted.', ConnectionResetError(10054, , None, 10054, None)) on https://kawaiikawaii.com/works/list/date/2010-01-12
+2023-08-11 17:55:18,797 | INFO     | - https://kawaiikawaii.com/works/list/date/2010-01-12
+2023-08-20 21:10:23,537 | INFO     | - https://kawaiikawaii.com/works/list/date/2010-02-11
+2023-08-20 21:21:22,684 | INFO     | - https://kawaiikawaii.com/works/list/date/2010-12-08
+2023-08-20 21:22:34,024 | WARNING     | - HTTPSConnectionPool(host='www.kawaiikawaii.com', port=443): Max retries exceeded with url: /works/list/date/2011-01-07 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1007)'))) on https://kawaiikawaii.com/works/list/date/2011-01-07
+2023-08-20 21:22:34,036 | INFO     | - https://kawaiikawaii.com/works/list/date/2011-01-07
+2023-08-20 21:34:43,617 | WARNING     | - HTTPSConnectionPool(host='kawaiikawaii.com', port=443): Max retries exceeded with url: /works/list/date/2011-10-22 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1007)'))) on https://kawaiikawaii.com/works/list/date/2011-10-22
+2023-08-20 21:34:43,618 | INFO     | - https://kawaiikawaii.com/works/list/date/2011-10-22
+2023-08-20 21:42:27,481 | WARNING     | - HTTPSConnectionPool(host='www.kawaiikawaii.com', port=443): Max retries exceeded with url: /works/list/date/2012-05-01 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1007)'))) on https://kawaiikawaii.com/works/list/date/2012-05-01
+2023-08-20 21:42:27,481 | INFO     | - https://kawaiikawaii.com/works/list/date/2012-05-01
+2023-08-20 21:46:12,279 | WARNING     | - HTTPSConnectionPool(host='kawaiikawaii.com', port=443): Max retries exceeded with url: /works/list/date/2012-07-13 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1007)'))) on https://kawaiikawaii.com/works/list/date/2012-07-13
+2023-08-20 21:46:12,280 | INFO     | - https://kawaiikawaii.com/works/list/date/2012-07-13
+2023-08-20 21:51:01,479 | WARNING     | - ('Connection aborted.', ConnectionResetError(10054,  None, 10054, None)) on https://kawaiikawaii.com/works/list/date/2012-07-26
+2023-08-20 21:51:01,481 | INFO     | - https://kawaiikawaii.com/works/list/date/2012-01-24
+2023-08-21 09:50:50,416 | INFO     | - https://kawaiikawaii.com/works/list/date/2012-01-24
+2023-08-21 09:52:09,951 | WARNING     | - ('Connection aborted.', ConnectionResetError(10054,  None, 10054, None)) on https://kawaiikawaii.jp/works/list/date/2012-01-25
+2023-08-21 09:52:09,982 | INFO     | - https://kawaiikawaii.jp/works/list/date/2012-01-24
+2023-08-21 09:56:11,637 | INFO     | - https://kawaiikawaii.jp/works/list/date/2012-01-27

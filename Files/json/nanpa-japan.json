@@ -1,0 +1,676 @@
+[
+  {
+    "https://nanpa-japan.jp/works/list/date/2013-12-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ004",
+        "https://nanpa-japan.jp/works/detail/NNPJ005",
+        "https://nanpa-japan.jp/works/detail/NNPJ001",
+        "https://nanpa-japan.jp/works/detail/NNPJ002"
+      ],
+      "count": 4
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2014-01-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ009",
+        "https://nanpa-japan.jp/works/detail/NNPJ010",
+        "https://nanpa-japan.jp/works/detail/NNPJ007",
+        "https://nanpa-japan.jp/works/detail/NNPJ008"
+      ],
+      "count": 4
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2014-02-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ014",
+        "https://nanpa-japan.jp/works/detail/NNPJ015",
+        "https://nanpa-japan.jp/works/detail/NNPJ011",
+        "https://nanpa-japan.jp/works/detail/NNPJ012",
+        "https://nanpa-japan.jp/works/detail/NNPJ013"
+      ],
+      "count": 5
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2014-03-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ019",
+        "https://nanpa-japan.jp/works/detail/NNPJ018",
+        "https://nanpa-japan.jp/works/detail/NNPJ016",
+        "https://nanpa-japan.jp/works/detail/NNPJ017"
+      ],
+      "count": 4
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2014-04-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ023",
+        "https://nanpa-japan.jp/works/detail/NNPJ020",
+        "https://nanpa-japan.jp/works/detail/NNPJ021"
+      ],
+      "count": 3
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2014-05-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ027",
+        "https://nanpa-japan.jp/works/detail/NNPJ026",
+        "https://nanpa-japan.jp/works/detail/NNPJ025",
+        "https://nanpa-japan.jp/works/detail/NNPJ024"
+      ],
+      "count": 4
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2014-06-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ029",
+        "https://nanpa-japan.jp/works/detail/NNPJ028",
+        "https://nanpa-japan.jp/works/detail/NNPJ031",
+        "https://nanpa-japan.jp/works/detail/NNPJ030"
+      ],
+      "count": 4
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2014-07-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ035",
+        "https://nanpa-japan.jp/works/detail/NNPJ034",
+        "https://nanpa-japan.jp/works/detail/NNPJ033",
+        "https://nanpa-japan.jp/works/detail/NNPJ032"
+      ],
+      "count": 4
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2014-08-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ037",
+        "https://nanpa-japan.jp/works/detail/NNPJ038",
+        "https://nanpa-japan.jp/works/detail/NNPJ036"
+      ],
+      "count": 3
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2014-09-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ041",
+        "https://nanpa-japan.jp/works/detail/NNPJ039",
+        "https://nanpa-japan.jp/works/detail/NNPJ040"
+      ],
+      "count": 3
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2014-10-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ045",
+        "https://nanpa-japan.jp/works/detail/NNPJ043",
+        "https://nanpa-japan.jp/works/detail/NNPJ044",
+        "https://nanpa-japan.jp/works/detail/NNPJ046"
+      ],
+      "count": 4
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2014-11-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ052",
+        "https://nanpa-japan.jp/works/detail/NNPJ048",
+        "https://nanpa-japan.jp/works/detail/NNPJ047",
+        "https://nanpa-japan.jp/works/detail/NNPJ051",
+        "https://nanpa-japan.jp/works/detail/NNPJ049",
+        "https://nanpa-japan.jp/works/detail/NNPJ053"
+      ],
+      "count": 6
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2014-12-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ054",
+        "https://nanpa-japan.jp/works/detail/NNPJ056",
+        "https://nanpa-japan.jp/works/detail/NNPJ057",
+        "https://nanpa-japan.jp/works/detail/NNPJ058",
+        "https://nanpa-japan.jp/works/detail/NNPJ050"
+      ],
+      "count": 5
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2015-01-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ065",
+        "https://nanpa-japan.jp/works/detail/NNPJ064",
+        "https://nanpa-japan.jp/works/detail/NNPJ063",
+        "https://nanpa-japan.jp/works/detail/NNPJ060",
+        "https://nanpa-japan.jp/works/detail/NNPJ059",
+        "https://nanpa-japan.jp/works/detail/NNPJ062"
+      ],
+      "count": 6
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2015-02-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ071",
+        "https://nanpa-japan.jp/works/detail/NNPJ070",
+        "https://nanpa-japan.jp/works/detail/NNPJ066",
+        "https://nanpa-japan.jp/works/detail/NNPJ067",
+        "https://nanpa-japan.jp/works/detail/NNPJ068",
+        "https://nanpa-japan.jp/works/detail/NNPJ069"
+      ],
+      "count": 6
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2015-03-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NPJB001",
+        "https://nanpa-japan.jp/works/detail/NNPJ076",
+        "https://nanpa-japan.jp/works/detail/NNPJ077",
+        "https://nanpa-japan.jp/works/detail/NNPJ073",
+        "https://nanpa-japan.jp/works/detail/NNPJ072"
+      ],
+      "count": 5
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2015-04-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ083",
+        "https://nanpa-japan.jp/works/detail/NNPJ079",
+        "https://nanpa-japan.jp/works/detail/NNPJ080",
+        "https://nanpa-japan.jp/works/detail/NNPJ082",
+        "https://nanpa-japan.jp/works/detail/NNPJ081"
+      ],
+      "count": 5
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2015-05-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ085",
+        "https://nanpa-japan.jp/works/detail/NNPJ084",
+        "https://nanpa-japan.jp/works/detail/NNPJ087",
+        "https://nanpa-japan.jp/works/detail/NNPJ086",
+        "https://nanpa-japan.jp/works/detail/NPJB002",
+        "https://nanpa-japan.jp/works/detail/NNPJ088"
+      ],
+      "count": 6
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2015-06-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ092",
+        "https://nanpa-japan.jp/works/detail/NNPJ089",
+        "https://nanpa-japan.jp/works/detail/NNPJ093",
+        "https://nanpa-japan.jp/works/detail/NPJB003",
+        "https://nanpa-japan.jp/works/detail/NNPJ090",
+        "https://nanpa-japan.jp/works/detail/NNPJ091"
+      ],
+      "count": 6
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2015-07-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ097",
+        "https://nanpa-japan.jp/works/detail/NNPJ094",
+        "https://nanpa-japan.jp/works/detail/NNPJ095",
+        "https://nanpa-japan.jp/works/detail/NNPJ098",
+        "https://nanpa-japan.jp/works/detail/NPJB004",
+        "https://nanpa-japan.jp/works/detail/NNPJ099"
+      ],
+      "count": 6
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2015-09-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ106",
+        "https://nanpa-japan.jp/works/detail/NNPJ111",
+        "https://nanpa-japan.jp/works/detail/NNPJ110",
+        "https://nanpa-japan.jp/works/detail/NNPJ108",
+        "https://nanpa-japan.jp/works/detail/NNPJ102",
+        "https://nanpa-japan.jp/works/detail/NNPJ107",
+        "https://nanpa-japan.jp/works/detail/NNPJ109"
+      ],
+      "count": 7
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2015-08-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ104",
+        "https://nanpa-japan.jp/works/detail/NNPJ101",
+        "https://nanpa-japan.jp/works/detail/NNPJ096",
+        "https://nanpa-japan.jp/works/detail/NNPJ105"
+      ],
+      "count": 4
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2015-10-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ117",
+        "https://nanpa-japan.jp/works/detail/NNPJ112",
+        "https://nanpa-japan.jp/works/detail/NNPJ116",
+        "https://nanpa-japan.jp/works/detail/NNPJ114",
+        "https://nanpa-japan.jp/works/detail/NNPJ113",
+        "https://nanpa-japan.jp/works/detail/NNPJ115",
+        "https://nanpa-japan.jp/works/detail/NPJB005"
+      ],
+      "count": 7
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2015-11-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ118",
+        "https://nanpa-japan.jp/works/detail/NNPJ124",
+        "https://nanpa-japan.jp/works/detail/NNPJ123",
+        "https://nanpa-japan.jp/works/detail/NNPJ120",
+        "https://nanpa-japan.jp/works/detail/NNPJ121",
+        "https://nanpa-japan.jp/works/detail/NNPJ119"
+      ],
+      "count": 6
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2015-12-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ126",
+        "https://nanpa-japan.jp/works/detail/NNPJ131",
+        "https://nanpa-japan.jp/works/detail/NNPJ132",
+        "https://nanpa-japan.jp/works/detail/NNPJ130",
+        "https://nanpa-japan.jp/works/detail/NNPJ129",
+        "https://nanpa-japan.jp/works/detail/NNPJ127"
+      ],
+      "count": 6
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2015-12-08": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ125"
+      ],
+      "count": 1
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2016-01-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ134",
+        "https://nanpa-japan.jp/works/detail/NNPJ136",
+        "https://nanpa-japan.jp/works/detail/NNPJ133",
+        "https://nanpa-japan.jp/works/detail/NNPJ137",
+        "https://nanpa-japan.jp/works/detail/NNPJ135",
+        "https://nanpa-japan.jp/works/detail/NPJB006"
+      ],
+      "count": 6
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2016-02-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ138",
+        "https://nanpa-japan.jp/works/detail/NNPJ143",
+        "https://nanpa-japan.jp/works/detail/NNPJ144",
+        "https://nanpa-japan.jp/works/detail/NNPJ140",
+        "https://nanpa-japan.jp/works/detail/NNPJ141"
+      ],
+      "count": 5
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2016-03-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ150",
+        "https://nanpa-japan.jp/works/detail/NNPJ151",
+        "https://nanpa-japan.jp/works/detail/NNPJ145",
+        "https://nanpa-japan.jp/works/detail/NNPJ146",
+        "https://nanpa-japan.jp/works/detail/NNPJ147",
+        "https://nanpa-japan.jp/works/detail/NNPJ148",
+        "https://nanpa-japan.jp/works/detail/NNPJ149"
+      ],
+      "count": 7
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2016-04-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ156",
+        "https://nanpa-japan.jp/works/detail/NNPJ152",
+        "https://nanpa-japan.jp/works/detail/NNPJ153",
+        "https://nanpa-japan.jp/works/detail/NNPJ154",
+        "https://nanpa-japan.jp/works/detail/NNPJ155",
+        "https://nanpa-japan.jp/works/detail/NPJB007"
+      ],
+      "count": 6
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2016-05-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ164",
+        "https://nanpa-japan.jp/works/detail/NNPJ160",
+        "https://nanpa-japan.jp/works/detail/NNPJ162",
+        "https://nanpa-japan.jp/works/detail/NNPJ165",
+        "https://nanpa-japan.jp/works/detail/NNPJ159",
+        "https://nanpa-japan.jp/works/detail/NNPJ161",
+        "https://nanpa-japan.jp/works/detail/NNPJ163"
+      ],
+      "count": 7
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2016-06-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ166",
+        "https://nanpa-japan.jp/works/detail/NNPJ167",
+        "https://nanpa-japan.jp/works/detail/NNPJ169",
+        "https://nanpa-japan.jp/works/detail/NNPJ168",
+        "https://nanpa-japan.jp/works/detail/NNPJ170",
+        "https://nanpa-japan.jp/works/detail/NPJB008"
+      ],
+      "count": 6
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2016-07-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ178",
+        "https://nanpa-japan.jp/works/detail/NNPJ177",
+        "https://nanpa-japan.jp/works/detail/NNPJ171",
+        "https://nanpa-japan.jp/works/detail/NNPJ173",
+        "https://nanpa-japan.jp/works/detail/NNPJ176",
+        "https://nanpa-japan.jp/works/detail/NNPJ172",
+        "https://nanpa-japan.jp/works/detail/NNPJ174",
+        "https://nanpa-japan.jp/works/detail/NNPJ175"
+      ],
+      "count": 8
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2016-09-01": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/AVOP225"
+      ],
+      "count": 1
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2016-08-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ186",
+        "https://nanpa-japan.jp/works/detail/NNPJ179",
+        "https://nanpa-japan.jp/works/detail/NNPJ187",
+        "https://nanpa-japan.jp/works/detail/NNPJ181",
+        "https://nanpa-japan.jp/works/detail/NNPJ184",
+        "https://nanpa-japan.jp/works/detail/NNPJ185",
+        "https://nanpa-japan.jp/works/detail/NNPJ180",
+        "https://nanpa-japan.jp/works/detail/NNPJ182",
+        "https://nanpa-japan.jp/works/detail/NPJB009"
+      ],
+      "count": 9
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2016-09-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ196",
+        "https://nanpa-japan.jp/works/detail/NNPJ195",
+        "https://nanpa-japan.jp/works/detail/NNPJ192",
+        "https://nanpa-japan.jp/works/detail/NNPJ193",
+        "https://nanpa-japan.jp/works/detail/NNPJ190",
+        "https://nanpa-japan.jp/works/detail/NNPJ189",
+        "https://nanpa-japan.jp/works/detail/NNPJ194",
+        "https://nanpa-japan.jp/works/detail/NNPJ188"
+      ],
+      "count": 8
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2016-11-01": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ205",
+        "https://nanpa-japan.jp/works/detail/NNPJ203",
+        "https://nanpa-japan.jp/works/detail/NNPJ202",
+        "https://nanpa-japan.jp/works/detail/NNPJ204",
+        "https://nanpa-japan.jp/works/detail/NNPJ201",
+        "https://nanpa-japan.jp/works/detail/NNPJ200"
+      ],
+      "count": 6
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2016-12-01": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ211",
+        "https://nanpa-japan.jp/works/detail/NNPJ210",
+        "https://nanpa-japan.jp/works/detail/NNPJ207",
+        "https://nanpa-japan.jp/works/detail/NNPJ209",
+        "https://nanpa-japan.jp/works/detail/NNPJ206"
+      ],
+      "count": 5
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2016-12-08": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ214"
+      ],
+      "count": 1
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2017-01-01": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ217",
+        "https://nanpa-japan.jp/works/detail/NNPJ212",
+        "https://nanpa-japan.jp/works/detail/NNPJ215",
+        "https://nanpa-japan.jp/works/detail/NNPJ213",
+        "https://nanpa-japan.jp/works/detail/NNPJ208",
+        "https://nanpa-japan.jp/works/detail/NNPJ216",
+        "https://nanpa-japan.jp/works/detail/NPJB010"
+      ],
+      "count": 7
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2017-02-07": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ223",
+        "https://nanpa-japan.jp/works/detail/NNPJ221",
+        "https://nanpa-japan.jp/works/detail/NNPJ220",
+        "https://nanpa-japan.jp/works/detail/NNPJ218"
+      ],
+      "count": 4
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2017-03-07": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ224",
+        "https://nanpa-japan.jp/works/detail/NNPJ227",
+        "https://nanpa-japan.jp/works/detail/NNPJ219"
+      ],
+      "count": 3
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2017-04-13": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ230",
+        "https://nanpa-japan.jp/works/detail/NNPJ231",
+        "https://nanpa-japan.jp/works/detail/TNB002",
+        "https://nanpa-japan.jp/works/detail/TNB001",
+        "https://nanpa-japan.jp/works/detail/TNB003",
+        "https://nanpa-japan.jp/works/detail/NPJB011",
+        "https://nanpa-japan.jp/works/detail/NNPJ228"
+      ],
+      "count": 7
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2017-05-13": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ234",
+        "https://nanpa-japan.jp/works/detail/NNPJ235",
+        "https://nanpa-japan.jp/works/detail/TNB004",
+        "https://nanpa-japan.jp/works/detail/NNPJ232",
+        "https://nanpa-japan.jp/works/detail/NNPJ233"
+      ],
+      "count": 5
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2017-06-13": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ239",
+        "https://nanpa-japan.jp/works/detail/NNPJ238",
+        "https://nanpa-japan.jp/works/detail/TNB006",
+        "https://nanpa-japan.jp/works/detail/NNPJ236",
+        "https://nanpa-japan.jp/works/detail/TNB005",
+        "https://nanpa-japan.jp/works/detail/NNPJ237"
+      ],
+      "count": 6
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2017-07-01": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ240"
+      ],
+      "count": 1
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2017-07-07": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ243",
+        "https://nanpa-japan.jp/works/detail/NNPJ242",
+        "https://nanpa-japan.jp/works/detail/TNB007",
+        "https://nanpa-japan.jp/works/detail/NNPJ241"
+      ],
+      "count": 4
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2017-08-07": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ244",
+        "https://nanpa-japan.jp/works/detail/NNPJ245"
+      ],
+      "count": 2
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2017-09-01": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NJVR001"
+      ],
+      "count": 1
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2017-09-19": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NJVR002",
+        "https://nanpa-japan.jp/works/detail/NNPJ249",
+        "https://nanpa-japan.jp/works/detail/NNPJ251",
+        "https://nanpa-japan.jp/works/detail/NNPJ250",
+        "https://nanpa-japan.jp/works/detail/NNPJ248",
+        "https://nanpa-japan.jp/works/detail/TNB010"
+      ],
+      "count": 6
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2017-08-13": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ246",
+        "https://nanpa-japan.jp/works/detail/TNB008",
+        "https://nanpa-japan.jp/works/detail/TNB009"
+      ],
+      "count": 3
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2017-10-13": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ255",
+        "https://nanpa-japan.jp/works/detail/NNPJ254",
+        "https://nanpa-japan.jp/works/detail/NNPJ253",
+        "https://nanpa-japan.jp/works/detail/TNB012",
+        "https://nanpa-japan.jp/works/detail/NNPJ252",
+        "https://nanpa-japan.jp/works/detail/TNB011"
+      ],
+      "count": 6
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2017-11-07": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ258",
+        "https://nanpa-japan.jp/works/detail/NNPJ257",
+        "https://nanpa-japan.jp/works/detail/TNB013"
+      ],
+      "count": 3
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2017-11-29": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NJVR004"
+      ],
+      "count": 1
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2017-12-13": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ261",
+        "https://nanpa-japan.jp/works/detail/NNPJ262",
+        "https://nanpa-japan.jp/works/detail/NNPJ264",
+        "https://nanpa-japan.jp/works/detail/NNPJ260",
+        "https://nanpa-japan.jp/works/detail/NNPJ259",
+        "https://nanpa-japan.jp/works/detail/TNB014"
+      ],
+      "count": 6
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2017-11-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NPJB012",
+        "https://nanpa-japan.jp/works/detail/NPJB013"
+      ],
+      "count": 2
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2017-12-25": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NPJB014"
+      ],
+      "count": 1
+    }
+  },
+  {
+    "https://nanpa-japan.jp/works/list/date/2018-01-01": {
+      "href": [
+        "https://nanpa-japan.jp/works/detail/NNPJ267"
+      ],
+      "count": 1
+    }
+  }
+]
